@@ -179,33 +179,5 @@
   .h61 {
     color: white;
   }
-  @media screen and (max-width: 600px) {
-    .foot {
-      width: 100%;
-    }
-    .yy {
-      margin-left: 0px;
-      margin-top: 5px;
-      width: 40px;
-      height: 15px;
-      font-size: 10px;
-    }
-    .zz {
-      margin-left: 0px;
-    }
-    .krishtiimg {
-      margin-left: 0px;
-    }
-    .xx {
-      margin-bottom: 0px;
-    }
-    .header-text {
-      margin-left: 0px;
-    }
-    .addbutton {
-      width: 100px;
-    }
-    .book {
-      margin: 30px;
-    }
-  }
+  
+     
