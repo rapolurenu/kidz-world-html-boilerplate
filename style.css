@@ -1,0 +1,211 @@
+.kidzworld {
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 50px;
+    position: absolute;
+  }
+  .cartimage {
+    width: 22px;
+    height: 22px;
+    margin-top: 35px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 40px;
+  }
+  #cart {
+    display: flex;
+    justify-content: center;
+    width: 120px;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .p1 {
+    font-size: 14px;
+    margin-top: 55px;
+    font-weight: bold;
+  }
+  header {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://github.com/Kalvium-Program/kidz-world-html/blob/main/assets/kw-background.png?raw=true');
+    background-size: cover;
+    background-position: 100%;
+    margin: auto;
+  }
+  .header-text {
+    color: aliceblue;
+    margin-left: 100px;
+    width: 200px;
+    padding: 40px;
+  }
+  .maindiv {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 4px;
+  }
+  .addbutton1 {
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    width: 60px;
+    background-color: rgb(60, 128, 239);
+    border-radius: 3px;
+  }
+  .addbutton2 {
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    width: 60px;
+    background-color: rgb(60, 128, 239);
+    border-radius: 3px;
+  }
+  .addbutton3 {
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    width: 60px;
+    background-color: rgb(60, 128, 239);
+    border-radius: 3px;
+  }
+  .addbutton4 {
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    width: 60px;
+    background-color: rgb(60, 128, 239);
+    border-radius: 3px;
+  }
+  .addbutton5 {
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    width: 60px;
+    background-color: rgb(60, 128, 239);
+  
+    border-radius: 3px;
+  }
+  .addbutton6 {
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    width: 60px;
+    background-color: rgb(60, 128, 239);
+    border-radius: 3px;
+  }
+  .imgadd {
+    width: 20px;
+    margin-top: 8px;
+    margin-left: 5px;
+    width: 20px;
+    height: 17px;
+  }
+  .h61 {
+    margin-left: 7px;
+    display: flex;
+    align-self: center;
+    font-size: 12px;
+  }
+  .rr,
+  .h61 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .ff {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+  }
+  .games {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .discover {
+    margin-left: 55px;
+  }
+  .new {
+    margin-left: 35px;
+  }
+  .withlove {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .homemade {
+    margin-left: 45px;
+  }
+  .gg {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+  }
+  .foot {
+    background-color: black;
+  }
+  .aa,
+  .xx {
+    color: whitesmoke;
+  }
+  .krishtiimg {
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 40px;
+  }
+  .yy {
+    margin-left: 650px;
+    margin-top: 50px;
+    width: 400px;
+    height: 150px;
+  }
+  
+  .tt {
+    display: flex;
+    justify-content: space-around;
+  }
+  .zz {
+    color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 60px;
+  }
+  .h61 {
+    color: white;
+  }
+  @media screen and (max-width: 600px) {
+    .foot {
+      width: 100%;
+    }
+    .yy {
+      margin-left: 0px;
+      margin-top: 5px;
+      width: 40px;
+      height: 15px;
+      font-size: 10px;
+    }
+    .zz {
+      margin-left: 0px;
+    }
+    .krishtiimg {
+      margin-left: 0px;
+    }
+    .xx {
+      margin-bottom: 0px;
+    }
+    .header-text {
+      margin-left: 0px;
+    }
+    .addbutton {
+      width: 100px;
+    }
+    .book {
+      margin: 30px;
+    }
+  }
